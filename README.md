@@ -10,6 +10,6 @@ ls
 
 ChmodChmod +x *
 
-BashBash wordgen-tc
+Bash Techcochi.sh
 
 Enjoy
