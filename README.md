@@ -8,7 +8,7 @@ Git clone https://github.com/rixon-cochi/wordlist-gen-tc/tree/master
 
 ls
 
-ChmodChmod +x *
+Chmod +x *
 
 Bash Techcochi.sh
 
