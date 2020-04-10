@@ -7,7 +7,9 @@ Install setup
 Git clone (link)
 
 ls
-Chmod +x *
-Bash wordgen-tc
+
+ChmodChmod +x *
+
+BashBash wordgen-tc
 
 Enjoy
