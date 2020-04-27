@@ -4,7 +4,7 @@ Wordlist generator
 Script by Technical Cochi
 Install setup
 
-Git clone https://github.com/rixon-cochi/wordlist-gen-tc/tree/master
+Git clone https://github.com/rixon-cochi/wordlist-gen-tc
 
 ls
 
