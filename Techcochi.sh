@@ -1,6 +1,9 @@
 #!/bin/bash
 sleep 2
 figlet TechCochi | lolcat
+
+$link2 = 'https://www.youtu.be/Techcochi';
+
 Sleep 6
 echo $'\[\e[32m\]PLEASE SUBSCRIBE TECHNICAL COCHI YOUTUBE CHANNEL\[\e[0m\]'
 sleep 4
